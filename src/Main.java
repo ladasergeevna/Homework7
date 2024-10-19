@@ -118,8 +118,8 @@ public class Main {
             friday += 7;
         } while (friday <= 31);
 
-        //Task8
         System.out.println();
+        //Task8
         System.out.println("Task8");
         int currentYear = 2024;
         int yearBefore = currentYear - 200;
